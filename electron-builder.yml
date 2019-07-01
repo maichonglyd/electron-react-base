@@ -1,0 +1,9 @@
+appId: "it.maichong.vision.youth"
+productName: "electron-react-base"
+copyright: Copyright © 2019 Maichong Software
+directories:
+  output: output
+  app: app
+win:
+  target: nsis
+icon: ./img/icon.ico
